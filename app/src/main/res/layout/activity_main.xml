@@ -12,7 +12,8 @@
     tools:context="jp.techacademy.kaneda.kenichi.myapplication.MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="285dp"
         android:layout_height="wrap_content"
-        android:text="Hello Android!"/>
+        android:text="Hello Android!"
+        android:textSize="40sp" />
 </LinearLayout>
